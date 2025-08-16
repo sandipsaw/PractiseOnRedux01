@@ -8,7 +8,7 @@ const Nav = () => {
         <NavLink className={(e)=> e.isActive ? "text-[#E1AA36]" :""} to='/product' >Product</NavLink>
         <NavLink className={(e)=> e.isActive ? "text-[#E1AA36]" :""} to='/create-product' >Create Product</NavLink>
         <NavLink className={(e)=> e.isActive ? "text-[#E1AA36]" :""} to='/service' >Service</NavLink>
-        <NavLink className={(e)=> e.isActive ? "text-[#E1AA36]" :""} to='/login' >Login</NavLink>
+        <NavLink className={(e)=> e.isActive ? "text-[#E1AA36]" :""} to='/register' >Login</NavLink>
     </div>
   )
 }

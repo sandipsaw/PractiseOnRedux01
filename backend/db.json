@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "i9mch56dGTZKy1HjRGR1W",
+      "username": "sandip shaw",
+      "email": "sandipsaw449@gmail.com",
+      "password": "12345",
+      "isAdmin": true
+    },
+    {
+      "id": "AQZiYlUIo26ChpnfWuJCO",
+      "username": "rohit gupta",
+      "email": "rohit@gmail.com",
+      "password": "nidhi",
+      "isAdmin": false
+    },
+    {
+      "id": "uXDu-T8WT1_FMmgaK4l1Z",
+      "username": "karan kumar",
+      "email": "karan@gmail.com",
+      "password": "kushi",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "id": "p101",
+      "title": "Wireless Headphones",
+      "description": "Over-ear Bluetooth headphones with noise cancellation",
+      "price": 2999,
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": "p102",
+      "title": "Smartphone Stand",
+      "description": "Adjustable aluminum stand for mobile devices",
+      "price": 799,
+      "category": "Accessories",
+      "image": "https://example.com/images/stand.jpg"
+    },
+    {
+      "id": "p103",
+      "title": "Gaming Mouse",
+      "description": "Ergonomic wired mouse with RGB lighting",
+      "price": 1499,
+      "category": "Gaming",
+      "image": "https://example.com/images/mouse.jpg"
+    },
+    {
+      "id": "p104",
+      "title": "Water Bottle",
+      "description": "Stainless steel insulated water bottle",
+      "price": 599,
+      "category": "Lifestyle",
+      "image": "https://example.com/images/bottle.jpg"
+    },
+    {
+      "id": "p105",
+      "title": "Running Shoes",
+      "description": "Lightweight and breathable running shoes",
+      "price": 2599,
+      "category": "Sportswear",
+      "image": "https://example.com/images/shoes.jpg"
+    }
+  ]
+}
